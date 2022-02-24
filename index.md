@@ -36,25 +36,25 @@
 # Techical Stack
 > Wide range of tools to support Data Management & Business Analytic Initiaitves
 ### Analytic Programming Languages
->              
+> Python | SAS | R | SQL
 - [Python](https://github.com/Alexjchou/)
 - [SAS](https://github.com/Alexjchou/)
 - [R](https://github.com/Alexjchou/)
 - [SQL](https://github.com/Alexjchou/)
 
 ### Cloud Data & Analytic Platforms
->              
+> Azure | Databricks | Pyspark
 - [Microsoft Azure](https://github.com/Alexjchou/)
 - [Databricks](https://github.com/Alexjchou/)
 - [Pyspark](https://github.com/Alexjchou/)
 
 ### Data Visualization Tools
->              
+> Tableau | Qlik Sense
 - [Tableau](https://github.com/Alexjchou/)
 - [Qlik Sense](https://github.com/Alexjchou/)
 
 ### Project Collaboration Tools
->              
+> 
 - [Microsoft Azure DevOps](https://github.com/Alexjchou/)
 
 ### Automation Softwares
