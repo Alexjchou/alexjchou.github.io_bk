@@ -28,6 +28,7 @@
 > MACHINE LEARNING is a computer programming technique that uses statistical probabilities to give computers the ability to “learn” without being explicitly programmed. In essence, machine learning is getting computers to learn—and therefore act—they way humans do, improving their learning and knowledge over time autonomously. The idea is to get computers to act without being explicitly programmed. Machine learning utilizes development programs that can adjust when exposed to different external inputs.
 + [Product Propensity Model](https://github.com/Alexjchou/)
 + [Customer Clustering](https://github.com/Alexjchou/)
++ [(More Use Cases ......)](https://github.com/Alexjchou/)
 
 ### No.4 Data-Driven CRM Strategies
 > A data-driven approach means making strategic decisions based on data analysis. A data-driven business strategy can allow companies to examine, organize, and explore their data with a single goal: to improve their products or services for their customers. By improving based on data, the business can also become more cost-effective, make more accurate decisions, increase their sales, and even improve their competitive advantage
