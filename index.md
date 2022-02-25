@@ -3,7 +3,7 @@
 > [Data and Analytics Professional](https://www.linkedin.com/in/alexjchou/) with 12 Years multi-geographic working experiences cross Banking Industry and Commercial Real Estate Industry, with 4 key data analytics capabilities to provide faster data-driven decision making and drive analytical revenue.
 + Expertise in building Enterprise Data Foundation with [Data Management & Analytics Architecture](https://alexjchou.github.io/)
 + Expertise in providing [Business Analytics and Business Intelligence (BI) Solutions](https://alexjchou.github.io/) and Data Visualization for Descriptive Analytic
-+ Experience in building [Machine Learning models](https://alexjchou.github.io/) to support the product propensity initiatives, customers clustering for products and services personalization
++ Experience in building [Machine Learning Applications](https://alexjchou.github.io/) to support the product propensity initiatives, customers clustering for products and services personalization
 + Well versed with Customer life-cycle management framework, experienced in [Recognizing Customer Profitability](https://alexjchou.github.io/), partnership with CRM to design [Data-Driven CRM Strategies](https://alexjchou.github.io/) via delivering personalized campaigns leads and lifetime event triggers strategies
 + Passionate Driving [Direct Business Impact](https://github.com/Alexjchou/alexjchou.github.io/blob/523df0deb9c00a35844069f07aad289eacba9a40/Data%20&%20Analytics%20To%20Business%20Direct%20Impact.md) and [Indirect Influence](https://alexjchou.github.io/) leveraging Data & Analytics Advanced Technologies.
 
